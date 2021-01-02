@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: images/mC.png
     background_image_opacity: 80
     content: |-
       # Selamat Datang di smk albisy semarwng
